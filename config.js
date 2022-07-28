@@ -4,10 +4,10 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6287898307350'
+global.nameowner = 'kyy⁩⁩'
+global.numberowner = '6285723302803'
 global.instagram = 'https://www.instagram.com/gmpyyy'
-global.github = 'https://github.com/gmpyyy'
+global.github = 'https://github.com/riskysatyr'
 global.dana = '087898307350'
 global.pulsa = '087898307350'
 global.gopay = '-'
@@ -26,7 +26,7 @@ global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'PENTABOT'
 global.watermark = wm
 global.wm2 = '                     「PENTABOT⁩ 」'
-global.wm3 = 'Gempy⛧'
+global.wm3 = 'Kyy'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'Created by'
-global.author = 'Gempy⛧⁩⁩'
+global.author = 'Kyyy'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix

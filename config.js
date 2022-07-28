@@ -1,5 +1,5 @@
 //=============『 Utama 』================== //
-global.owner = ['6287898307350'] 
+global.owner = ['6285723302803'] 
 global.mods = [] 
 global.prems = [] 
 
@@ -8,13 +8,13 @@ global.nameowner = 'kyy⁩⁩'
 global.numberowner = '6285723302803'
 global.instagram = 'https://www.instagram.com/riskysatyr'
 global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
+global.dana = '085723302803'
+global.pulsa = '085723302803'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'PENTABOT'
-global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
+global.gc = 'https://chat.whatsapp.com/EiS42vpYWA05RbmkXLKmRw'
 global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
